@@ -1,0 +1,8 @@
+#Ignore directories
+/storage
+/current_files
+/__pycache__
+
+
+#Ingore Files
+*.csv
